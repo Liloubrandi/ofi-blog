@@ -32,7 +32,7 @@ Sowohl auf dem Client, wie auf dem Server braucht es Programme, welche die ausge
 
 Webseiten sind Dateien, deren Inhalt in der Sprache **HTML** (Hypertext Markup Language) geschrieben ist. HTML dient dabei dazu die Darstellung der Webseite festzulegen (Überschriften, Abschnitte Tabellen, Links auf andere Seiten, etc.).
 
-Damit sich Client und Server gegenseitig verstehen, müssen die Nachrichten in einer genau festgelegten Reihenfolge und mit genau definiertem Inhalt ausgetauscht werden. Diese Vorschriften nennt man ein **Protokolle** (siehe auch [👉 2. Protokolle](../02-Protokolle/index.md)). Im Falle des Webs heisst das Protokoll **HTTP** (Hypertext Transfer Protocol).
+Damit sich Client und Server gegenseitig verstehen, müssen die Nachrichten in einer genau festgelegten Reihenfolge und mit genau definiertem Inhalt ausgetauscht werden. Diese Vorschriften nennt man **Protokolle** (siehe auch [👉 2. Protokolle](../02-Protokolle/index.md)). Im Falle des Webs heisst das Protokoll **HTTP** (Hypertext Transfer Protocol).
 
 HTTP
 : Hypertext Transfer Protocol
